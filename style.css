@@ -1,3 +1,12 @@
-.hello{
-    color: red;
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btn-sign{
+    color: black;
+    background-color: azure;
+}
+.form{
+    background-color: red;
 }
